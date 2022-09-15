@@ -1,0 +1,7 @@
+Criem a classe abstrata forma geometrica
+com os metodos abstratos perimetro e area
+Criem 4 classes filhas de forma geometrica:
+Quadrado
+Triangulo
+Circulo
+Pentagono
